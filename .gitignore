@@ -1,0 +1,19 @@
+# Ephemeral / gitignored brain areas
+ψ/active/
+ψ/learn/
+ψ/incubate/
+ψ/memory/logs/
+
+# Temp files
+.tmp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Environment
+.env
+.env.*
